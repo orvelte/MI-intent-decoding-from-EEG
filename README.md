@@ -1,6 +1,6 @@
 # EEG Motor Imagery Intent Classification
 
-This repository contains code for EEG-based motor imagery intent classification using both classical machine learning approaches (CSP+LDA, Riemannian geometry) and deep learning (EEGNet).
+EEG-based motor imagery intent classification using both classical machine learning approaches (CSP+LDA, Riemannian geometry) and deep learning (EEGNet).
 
 ## Structure
 

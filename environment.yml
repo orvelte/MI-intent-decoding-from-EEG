@@ -1,0 +1,24 @@
+name: eeg-mi-intent
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pandas
+  - pyyaml
+  - mne
+  - pyriemann
+  - pytorch
+  - torchvision
+  - jupyter
+  - notebook
+  - ipykernel
+  - pip
+  - pip:
+    - eegnet-pytorch
